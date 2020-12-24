@@ -36,7 +36,7 @@ __1. 단순 번역__
 |*참고*|  
 ![image](https://user-images.githubusercontent.com/35206992/103107874-fc27e600-4685-11eb-9a4a-149cc26c3493.png)
 <br><br><br><br><br><br>
-
+<br><br><br><br><br><br>
 __2. 음성 파일 번역__
 <br><br>
 ![image](https://user-images.githubusercontent.com/35206992/103107535-94bc6700-4682-11eb-8132-9043cd04bc9d.png)
