@@ -16,7 +16,8 @@
 <br><br><br>
 ## 주요 기능  
 __| IBM Watson Sppech To Text |__
-- Speech To Text 시작하기 : https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted&locale=ko  
+- Speech To Text 시작하기 : https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted&locale=ko
+- 다양한 언어 ver : https://cloud.ibm.com/apidocs/speech-to-text?code=python
   - Speech To Text  
 
 <br><br><br>
