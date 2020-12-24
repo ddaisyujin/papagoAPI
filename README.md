@@ -18,14 +18,27 @@
 __| IBM Watson Sppech To Text |__
 - Speech To Text 시작하기 : https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted&locale=ko  
   - Speech To Text  
+
 <br><br><br>
 __| Naver papago API |__  
 - papago 구현 예제 : https://developers.naver.com/docs/papago/papago-nmt-example-code.md  
 - papago API 레퍼런스 : https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted&locale=ko  
   - 번역할 음성파일의 언어 감지  
-  - 파파고 인공지능 번역  
-
+  - 파파고 인공 신경망 기반의 기계 번역(NMT, Neural Machine Translation)
+<br><br><br><br><br><br>
 ## 동작 시나리오  
-1. 단순 번역  
+__1. 단순 번역__
+<br><br>
+![image](https://user-images.githubusercontent.com/35206992/103107508-532bbc00-4682-11eb-81ba-ae4380e87f4b.png)
+<br><br><br>
+![image](https://user-images.githubusercontent.com/35206992/103107524-722a4e00-4682-11eb-9c94-9101365bcd2a.png)
+<br><br><br><br><br><br>
 
-2. 음성 파일 번역
+__2. 음성 파일 번역__
+<br><br>
+![image](https://user-images.githubusercontent.com/35206992/103107535-94bc6700-4682-11eb-8132-9043cd04bc9d.png)
+<br><br><br>
+![image](https://user-images.githubusercontent.com/35206992/103107553-d2b98b00-4682-11eb-8a87-8fa99c8f4914.png)
+<br><br><br>
+![image](https://user-images.githubusercontent.com/35206992/103107597-625f3980-4683-11eb-815a-038571f31f27.png)
+<br><br><br><br><br><br>
